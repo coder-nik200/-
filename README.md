@@ -24,6 +24,10 @@ Browse DragonBall characters, see their stats, and search for your favorite figh
 
 * * *
 
+## 🔗 Live Demo
+-
+https://dragonball-beta.vercel.app/
+
 ## My Skills
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
